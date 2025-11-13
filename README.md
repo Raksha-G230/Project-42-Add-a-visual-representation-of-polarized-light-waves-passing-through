@@ -12,9 +12,9 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Raksha 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b> REC Banda 
+<b> Email id|     <b> babubabu97444@gmail.com 
+<b> Department | information technology 
 
 ### Contributors List
 
