@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>information technology
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> virtual lab
+<b> Experiment|     <b> Add a visual representation of polarized light waves passing through the solution
 
 ### About the Experiment 
 
