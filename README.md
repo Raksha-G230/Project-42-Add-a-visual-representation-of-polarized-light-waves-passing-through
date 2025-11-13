@@ -14,7 +14,7 @@ Fill a brief description of this experiment here
 :--|:--|
 <b> Institute | <b> REC Banda 
 <b> Email id|     <b> babubabu97444@gmail.com 
-<b> Department | information technology 
+<b> Department | <b> Information technology 
 
 ### Contributors List
 
