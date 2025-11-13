@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Raksha | student | IT| REC Banda | babubabu97444@gmail.com
+2 | Asha | student | IT | REC Banda | ashagautam1034@gmail.com
